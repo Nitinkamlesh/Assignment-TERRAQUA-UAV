@@ -228,7 +228,6 @@ POST /process-image
 
 Nitin Kamlesh  
 B.Tech Student  
-Interested in GIS, AI & Full Stack Development  
 
 ---
 
